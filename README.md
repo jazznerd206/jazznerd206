@@ -1,8 +1,8 @@
 # Andrew Miller checking in.
 😄 Pronouns: He/Him
 ### Full Stack Developer, musician, glassblower, golfer
-> Seattle, WA
-![](https://komarev.com/ghpvc/?username=jazznerd206&label=Profile%20views&color=0e75b6&style=flat)
+#### Seattle, WA
+#### ![](https://komarev.com/ghpvc/?username=jazznerd206&label=Profile%20views&color=0e75b6&style=flat)
 
 ## Wanna connect?
 * [LinkedIn](https://www.linkedin.com/in/andrew-miller-113a1a195/)
@@ -14,6 +14,7 @@
   * A project to track my golf scores and statistics
 ### 💬 Ask me about ...
   * Anything related to music!!
+  * Pair programming
 ### 🌱 I’m currently learning
   * NextJS
 ### 📫 How to reach me:
