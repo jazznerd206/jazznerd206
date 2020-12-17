@@ -40,19 +40,16 @@
 
 
 ## Want to connect?
-* [LinkedIn](https://www.linkedin.com/in/andrew-miller-113a1a195/)
-* [Instagram](https://www.instagram.com/206alm/)
+<a href="https://www.linkedin.com/in/andrew-miller-113a1a195/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.instagram.com/206alm/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="html5" width="40" height="40"/> </a>
 
 ## About me
 ### 🔭 I’m currently working on --
-  * __Finding a job__
-  * A project to track my golf scores and statistics
+  * __Finding a job!!__
 ### 💬 Ask me about ...
   * Anything related to music!!
   * Pair programming
   * Javascript, React, Node, Mongo, SQL
-### 🌱 I’m currently learning
-  * NextJS
 ### 📫 How to reach me:
   * [My Site](https://andrewmiller.fun)
   * 206alm@gmail.com
