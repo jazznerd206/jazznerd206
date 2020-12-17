@@ -29,7 +29,9 @@
 ### 📫 How to reach me:
   * [My Site](https://andrewmiller.fun)
   * 206alm@gmail.com
-![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=jazznerd206)
+  
+  
+# ![Andrew's github stats](https://github-readme-stats.vercel.app/api?username=jazznerd206)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jazznerd206)](https://github.com/jazznerd206/github-readme-stats)
 
 <!--
