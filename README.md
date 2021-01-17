@@ -73,12 +73,8 @@
 
 <p align="center">
 <h4> Contact Me </h4>
-<a href="https://www.linkedin.com/in/andrew-miller-113a1a195/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.instagram.com/206alm/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="html5" width="40" height="40"/> </a>
-<a href="https://www.andrewmiller.fun" target="_blank"> Portfolio </a>
-</p>
-
-<p align="center">
-https://andrewmiller.fun
+<a href="https://www.linkedin.com/in/andrew-miller-113a1a195/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="html5" width="40" height="40"/>
+<a href="https://www.instagram.com/206alm/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="html5" width="40" height="40"/>
+<a href="https://andrewmiller.fun">Portfolio</a>
 </p>
 
