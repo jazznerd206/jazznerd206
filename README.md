@@ -21,21 +21,41 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jazznerd206"></img>
 </p>
 
-> SYSTEM: 
-<a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://ubuntu.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/ubuntu/ubuntu-icon.svg" alt="bash" width="40" height="40"/> </a>
-<a href="https://microsoft.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/microsoft/microsoft-icon.svg" alt="bash" width="40" height="40"/> </a>
-
-> LANGUAGES: 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-<a href="https://www.w3.org/html/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
+<p>Languages: </p>
+<p><img src="https://img.shields.io/badge/-JavaScript-white?style=flat-square&logo=javascript" />
+<img src="https://img.shields.io/badge/-TypeScript-white?style=flat-square&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/-Python-white?style=flat-square&logo=python" />
+<img src="https://img.shields.io/badge/-HTML5-white?style=flat-square&logo=html5&logoColor=E34F26" />
+<img src="https://img.shields.io/badge/-CSS3-white?style=flat-square&logo=css3&logoColor=1572B6" /></p>
+</h5>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+<p>Client: </p>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" /> ReactJS
+<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" /> Redux
+<img src="https://img.shields.io/badge/-Next.js-white?style=flat-square&logo=next.js&logoColor=000000" /> NextJS
+<img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" /> Sass
+</h5>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+<p>Server: </p>
+<p><img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" /> MongoDB
+<img src="https://img.shields.io/badge/-SQL-white?style=flat-square&logo=sql" /> SQL
+<img src="https://img.shields.io/badge/-PostgreSQL-white?style=flat-square&logo=postgresql&logoColor=336791" /> PostgreSQL
+<img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" /> Express
+<img src="https://devicons.github.io/devicon/devicon.git/icons/node/node-original-wordmark.svg" /> NodeJS</p>
+  flask
+</h5>
+<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+<p>Devtools && Deployment </p>
+<p><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> Github
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" /> Heroku
+<img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" /> Travis CI
+<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> Mocha
+<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" /> Chai
+<img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> Jenkins</p>
+</h5>
 
 > TECHNOLOGIES: 
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://redux.js.org" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a>
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/> </a>
@@ -44,11 +64,7 @@
 <a href="https://sass-lang.com" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> 
 
 > DEVOPS: 
-<a href="https://www.jenkins.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a>
 <a href="https://jestjs.io" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a>
-<a href="https://travis-ci.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a>
-<a href="https://mochajs.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a>
-<a href="https://chaijs.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" alt="chai" width="40" height="40"/> </a>
 
 
 ## Want to connect?
