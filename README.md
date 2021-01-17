@@ -1,13 +1,25 @@
-# Andrew Miller checking in.
-😄 Pronouns: He/Him
-### Full Stack Developer, musician, glassblower, golfer
+# Full stack, full stop.
+## Creativity  ∩  Passion  ∩  Technology
 #### Seattle, WA
-#### ![](https://github-profile-trophy.vercel.app/?username=jazznerd206)
-![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Lang-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Favorite-React-informational?style=flat&logo=react&logoColor=white&color=2bbc8a)
-#### ![](https://komarev.com/ghpvc/?username=jazznerd206&label=Profile%20views&color=0e75b6&style=flat)
+😄 Pronouns: He/Him
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/0-profile-details.svg"></img>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg"></img>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></img>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/3-stats.svg"></img>
+</p>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=jazznerd206"></img>
+</p>
 
 > SYSTEM: 
 <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
