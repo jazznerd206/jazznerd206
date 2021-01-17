@@ -1,4 +1,4 @@
-# Full stack, full stop.
+# FULL STACK, FULL STOP
 ## Creativity  ∩  Passion  ∩  Technology
 😄 Pronouns: He/Him
 
@@ -30,7 +30,7 @@
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
 <p>Languages: </p>
 <p>
-<imgsrc="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
+<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> TypeScript
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> HTML5
@@ -82,3 +82,12 @@
 </p>
 
 
+<hr>
+  
+
+<p align="center">
+  <h4>There's 106 miles to Chicago, we've got a full tank of gas, half a pack of cigarettes, it's dark out, and we're wearing sunglasses.</h4>
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/CwMKejp4V6Z1K/giphy.gif" alt="dancing"/>
+</p>
