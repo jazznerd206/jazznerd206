@@ -14,8 +14,6 @@
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg"></img>
-</p>
-<p align="center">
   <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></img>
 </p>
 <p align="center">
