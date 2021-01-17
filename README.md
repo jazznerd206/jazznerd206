@@ -27,27 +27,26 @@
   <img src="https://github-profile-trophy.vercel.app/?username=jazznerd206"></img>
 </p>
 
-<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
+<h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
 <p>Languages: </p>
-<p><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
+<p>
+<imgsrc="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
 <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> TypeScript
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> HTML5
-<img src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg" /></p> CSS3
-</h5>
-<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+</p>
+</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>Client: </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
 <img src="https://api.iconify.design/logos-redux.svg?height=50" /> Redux
 <img sc="https://api.iconify.design/logos:d3.svg?height=50" /> D3JS
 <img src="https://api.iconify.design/logos:material-ui.svg?height=50" /> MaterialUI
-<img src="https://api.iconify.design/foundation:social-zurb.svg?height=16" /> Foundation
-                                                                     
-                                                                     
+<img src="https://api.iconify.design/foundation:social-zurb.svg?height=50" /> Foundation
 </p>
-</h5>
-<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>Server: </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> NodeJS
@@ -57,8 +56,8 @@
 <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> SQL
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" /> PostgreSQL
 </p>
-</h5>
-<h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
+</h4>
+<h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
 <p>Devtools && Deployment </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> Github
@@ -69,12 +68,17 @@
 <img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" /> Chai
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> Jenkins
 </p>
-</h5>
+</h4>
 
-<p align="center">
-<h4> Contact Me </h4>
+<p>
+<h3> Contact Me </h3>
 <a href="https://www.linkedin.com/in/andrew-miller-113a1a195/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="html5" width="40" height="40"/>
 <a href="https://www.instagram.com/206alm/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="html5" width="40" height="40"/>
-<a href="https://andrewmiller.fun">Portfolio</a>
+<a href="mailto:206alm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" />
 </p>
+  
+<p align="center">
+  <a href="https://andrewmiller.fun" target="_blank">Click here to see my portfolio!!</a>
+</p>
+
 
