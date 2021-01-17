@@ -1,7 +1,13 @@
 # Full stack, full stop.
 ## Creativity  ∩  Passion  ∩  Technology
-#### Seattle, WA
 😄 Pronouns: He/Him
+
+
+<p align="center">
+  <h3 display: flex; justify-content: center; margin: 0px 50px; padding: 0; font-family:"monospace">
+    I am Andrew Miller, designer of web experiences. I build from front to back and from side to side. Nice to meet you, friend!
+  </h3>
+</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/0-profile-details.svg"></img>
@@ -33,8 +39,12 @@
 <p>Client: </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
-<img src="https://devicons.github.io/devicon/devicon.git/icons/redux/redux-original.svg" /> Redux
-<img sc="https://www.vectorlogo.zone/util/preview.html?image=/logos/d3js/d3js-icon.svg" /> D3JS
+<img src="https://api.iconify.design/logos-redux.svg?height=50" /> Redux
+<img sc="https://api.iconify.design/logos:d3.svg?height=50" /> D3JS
+<img src="https://api.iconify.design/logos:material-ui.svg?height=50" /> MaterialUI
+<img src="https://api.iconify.design/foundation:social-zurb.svg?height=16" /> Foundation
+                                                                     
+                                                                     
 </p>
 </h5>
 <h5 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
@@ -62,19 +72,13 @@
 </h5>
 
 <p align="center">
-## Want to connect?
+<h4> Contact Me </h4>
 <a href="https://www.linkedin.com/in/andrew-miller-113a1a195/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="html5" width="40" height="40"/> </a>
 <a href="https://www.instagram.com/206alm/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" alt="html5" width="40" height="40"/> </a>
+<a href="https://www.andrewmiller.fun" target="_blank"> Portfolio </a>
 </p>
 
+<p align="center">
+https://andrewmiller.fun
+</p>
 
-## About me
-### 🔭 I’m currently working on --
-  * __Finding a job!!__
-### 💬 Ask me about ...
-  * Anything related to music!!
-  * Pair programming
-  * Javascript, React, Node, Mongo, SQL
-### 📫 How to reach me:
-  * [My Site](https://andrewmiller.fun)
-  * 206alm@gmail.com
