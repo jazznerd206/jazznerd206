@@ -21,17 +21,15 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jazznerd206"></img>
-</p>
+
 
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
 <p>Languages: </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" /> TypeScript
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python
 <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" /> HTML5
+<img src="https://api.iconify.design/logos:css-3.svg?height=75" /> CSS3
 </p>
 </h4>
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
