@@ -10,21 +10,22 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/0-profile-details.svg"></img>
+  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/0-profile-details.svg"></img>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/1-repos-per-language.svg"></img>
-  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/2-most-commit-language.svg"></img>
+  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"></img>
+  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"></img>
+</p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/3-stats.svg"></img>
+  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/4-productive-time.svg"></img>
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/3-stats.svg"></img>
 </p>
 
-
-
-
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
-<p>Languages: </p>
+<p>Languages -:> </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" /> JavaScript
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> Python
@@ -33,7 +34,7 @@
 </p>
 </h4>
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>Client: </p>
+<p>FE -:> </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" /> ReactJS
 <img src="https://api.iconify.design/logos-redux.svg?height=50" /> Redux
@@ -43,7 +44,7 @@
 </p>
 </h4>
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0;">
-<p>Server: </p>
+<p>BE -:> </p>
 <p>
 <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" /> NodeJS
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" /> ExpressJS
@@ -60,8 +61,6 @@
 <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" /> Heroku
 <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" /> Travis CI
 <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" /> Jest
-<img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" /> Mocha
-<img src="https://www.vectorlogo.zone/logos/chaijs/chaijs-icon.svg" /> Chai
 <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" /> Jenkins
 </p>
 </h4>
