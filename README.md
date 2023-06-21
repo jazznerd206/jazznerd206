@@ -57,15 +57,7 @@
 <a href="mailto:206alm@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-c14438?style=plastic&logo=Gmail&logoColor=white" />
 </p>
   
-<p align="center">
-  <a href="https://andrewmiller.fun" target="_blank">Click here to see my portfolio!!</a>
-</p>
 
-<hr>
-
-<p align="center">
-  <img alt="My activity graph" src="https://activity-graph.herokuapp.com/graph?username=jazznerd206&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
-</p>
 
 <hr>
 
