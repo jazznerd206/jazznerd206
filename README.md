@@ -9,21 +9,6 @@
   </h3>
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/0-profile-details.svg"></img>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/1-repos-per-language.svg"></img>
-  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/2-most-commit-language.svg"></img>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/3-stats.svg"></img>
-  <img src="https://raw.githubusercontent.com/jazznerd206/jazznerd206/main/profile-summary-card-output/github_dark/4-productive-time.svg"></img>
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/jazznerd206/Cards/master/profile-summary-card-output/dracula/3-stats.svg"></img>
-</p>
-
 <h4 style="display: flex; justify-content: space-between; margin: 0; padding: 0; font-family:"monospace">
 <p>Languages -:> </p>
 <p>
